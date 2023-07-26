@@ -1,3 +1,4 @@
+![logo](https://github.com/HurairaImtiaz/HurairaImtiaz/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abu-Huraira</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
